@@ -1,0 +1,34 @@
+{
+  "name": "gpx-upload",
+  "version": "1.0.0",
+  "description": "Electron application to upload gpx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "npx standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beretta1979/gpx-upload.git"
+  },
+  "keywords": [
+    "gpx"
+  ],
+  "author": "Sébastien Van Bruaene",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Beretta1979/gpx-upload/issues"
+  },
+  "homepage": "https://github.com/Beretta1979/gpx-upload#readme",
+  "devDependencies": {
+    "electron": "^9.0.5",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jwt-decode": "^2.2.0",
+    "keytar": "^6.0.1"
+  }
+}

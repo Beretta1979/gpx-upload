@@ -1,2 +1,2 @@
 # gpx-upload
-Electron application to upload gpx files to strava
+Electron application to upload gpx files
