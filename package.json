@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Beretta1979/gpx-upload#readme",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^9.3.1",
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.21.2"
